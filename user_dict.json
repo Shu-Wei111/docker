@@ -1,0 +1,791 @@
+{
+    "1": {
+        "seller_user_id": "U52d34c487404af7f2bdd93d7463eb975",
+        "product_name": "堯平布朗尼",
+        "product_description": "綜合口味",
+        "trading_location": "成大光復校區門口",
+        "trading_time": [
+            [
+                [
+                    2021,
+                    6,
+                    30,
+                    9,
+                    0,
+                    0,
+                    2,
+                    181,
+                    -1
+                ],
+                [
+                    2021,
+                    6,
+                    30,
+                    12,
+                    0,
+                    0,
+                    2,
+                    181,
+                    -1
+                ]
+            ],
+            [
+                [
+                    2021,
+                    7,
+                    1,
+                    13,
+                    0,
+                    0,
+                    3,
+                    182,
+                    -1
+                ],
+                [
+                    2021,
+                    7,
+                    1,
+                    15,
+                    0,
+                    0,
+                    3,
+                    182,
+                    -1
+                ]
+            ]
+        ],
+        "product_classification": "團購美食",
+        "hashtag": "#甜點",
+        "group_condition_product_number": [
+            6,
+            12
+        ],
+        "group_condition_date": [
+            2021,
+            6,
+            24,
+            13,
+            0,
+            0,
+            3,
+            175,
+            -1
+        ],
+        "Line_id": "a4772309",
+        "customer_id": [],
+        "status": 1,
+        "current_number": 0,
+        "price": "400",
+        "picture": "https://drive.google.com/uc?export=download&id=1qFYA8pnY_boY3F4g4c3QDI86kqdpjcWi"
+    },
+    "2": {
+        "seller_user_id": "U52d34c487404af7f2bdd93d7463eb975",
+        "product_name": "Costco堅果",
+        "product_description": "無調味版",
+        "trading_location": "成大圖書館正門口",
+        "trading_time": [
+            [
+                [
+                    2021,
+                    7,
+                    3,
+                    14,
+                    0,
+                    0,
+                    5,
+                    184,
+                    -1
+                ],
+                [
+                    2021,
+                    7,
+                    3,
+                    16,
+                    0,
+                    0,
+                    5,
+                    184,
+                    -1
+                ]
+            ],
+            [
+                [
+                    2021,
+                    7,
+                    5,
+                    19,
+                    0,
+                    0,
+                    0,
+                    186,
+                    -1
+                ],
+                [
+                    2021,
+                    7,
+                    5,
+                    21,
+                    0,
+                    0,
+                    0,
+                    186,
+                    -1
+                ]
+            ]
+        ],
+        "product_classification": "團購美食",
+        "hashtag": "#健康零食",
+        "group_condition_product_number": [
+            10,
+            20
+        ],
+        "group_condition_date": [
+            2021,
+            6,
+            26,
+            21,
+            0,
+            0,
+            5,
+            177,
+            -1
+        ],
+        "Line_id": "a4772309",
+        "customer_id": [],
+        "status": 1,
+        "current_number": 0,
+        "price": "550",
+        "picture": "https://drive.google.com/uc?export=download&id=1yv2KxnKFdVkhET2uJgKRfU_kmIv445nN"
+    },
+    "3": {
+        "seller_user_id": "U52d34c487404af7f2bdd93d7463eb975",
+        "product_name": "巧克力",
+        "product_description": "美味的甜點",
+        "trading_location": "成大光復校區門口",
+        "trading_time": [
+            [
+                [
+                    2021,
+                    7,
+                    1,
+                    9,
+                    0,
+                    0,
+                    3,
+                    182,
+                    -1
+                ],
+                [
+                    2021,
+                    7,
+                    1,
+                    15,
+                    0,
+                    0,
+                    3,
+                    182,
+                    -1
+                ]
+            ]
+        ],
+        "product_classification": "團購美食",
+        "hashtag": "#美味點心",
+        "group_condition_product_number": [
+            5,
+            10
+        ],
+        "group_condition_date": [
+            2021,
+            6,
+            25,
+            19,
+            0,
+            0,
+            4,
+            176,
+            -1
+        ],
+        "Line_id": "revolution84",
+        "customer_id": [],
+        "status": 1,
+        "current_number": 0,
+        "price": "120",
+        "picture": "https://drive.google.com/uc?export=download&id=1fvogRFbafX4kidyvt9gmdp8rKB9NoieG"
+    },
+    "4": {
+        "seller_user_id": "U52d34c487404af7f2bdd93d7463eb975",
+        "product_name": "開心",
+        "product_description": "快樂的一天",
+        "trading_location": "光二宿舍門口",
+        "trading_time": [
+            [
+                [
+                    2021,
+                    6,
+                    20,
+                    9,
+                    0,
+                    0,
+                    6,
+                    171,
+                    -1
+                ],
+                [
+                    2021,
+                    6,
+                    20,
+                    15,
+                    0,
+                    0,
+                    6,
+                    171,
+                    -1
+                ]
+            ]
+        ],
+        "product_classification": "休閒娛樂",
+        "hashtag": "#憂鬱剋星",
+        "group_condition_product_number": [
+            5,
+            15
+        ],
+        "group_condition_date": [
+            2021,
+            6,
+            18,
+            20,
+            0,
+            0,
+            4,
+            169,
+            -1
+        ],
+        "Line_id": "revolution84 ",
+        "customer_id": [
+
+        ],
+        "status": 1,
+        "current_number": 10,
+        "price": "1000",
+        "picture": "https://drive.google.com/uc?export=download&id=1a_vXClCXG6tb-x6hKSzGKw1_K1jgHewM"
+    },
+    "5": {
+        "seller_user_id": "U52d34c487404af7f2bdd93d7463eb975",
+        "product_name": "藍芽喇叭",
+        "product_description": "聽音樂",
+        "trading_location": "成大勝後",
+        "trading_time": [
+            [
+                [
+                    2021,
+                    6,
+                    5,
+                    19,
+                    0,
+                    0,
+                    5,
+                    156,
+                    -1
+                ],
+                [
+                    2021,
+                    6,
+                    5,
+                    20,
+                    0,
+                    0,
+                    5,
+                    156,
+                    -1
+                ]
+            ]
+        ],
+        "product_classification": "居家生活",
+        "hashtag": "",
+        "group_condition_product_number": [
+            6,
+            22
+        ],
+        "group_condition_date": [
+            2021,
+            8,
+            1,
+            6,
+            0,
+            0,
+            6,
+            213,
+            -1
+        ],
+        "Line_id": "0979064278",
+        "customer_id": [],
+        "status": 1,
+        "current_number": 0,
+        "price": "2999",
+        "picture": "https://drive.google.com/uc?export=download&id=1vEc41eIC-NKFZ1bYiCvDbvMm5MCuxDRA"
+    },
+    "6": {
+        "seller_user_id": "U52d34c487404af7f2bdd93d7463eb975",
+        "product_name": "滑鼠",
+        "product_description": "拿來滑",
+        "trading_location": "小東路",
+        "trading_time": [
+            [
+                [
+                    2021,
+                    6,
+                    5,
+                    19,
+                    0,
+                    0,
+                    5,
+                    156,
+                    -1
+                ],
+                [
+                    2021,
+                    6,
+                    5,
+                    20,
+                    30,
+                    0,
+                    5,
+                    156,
+                    -1
+                ]
+            ]
+        ],
+        "product_classification": "居家生活",
+        "hashtag": "",
+        "group_condition_product_number": [
+            9,
+            15
+        ],
+        "group_condition_date": [
+            2021,
+            8,
+            1,
+            6,
+            0,
+            0,
+            6,
+            213,
+            -1
+        ],
+        "Line_id": "0979064278",
+        "customer_id": [],
+        "status": 1,
+        "current_number": 0,
+        "price": "99",
+        "picture": "https://drive.google.com/uc?export=download&id=1j8xtrpeSheEaxrjLK2TBV-IVHn-zdwfN"
+    },
+    "7": {
+        "seller_user_id": "U52d34c487404af7f2bdd93d7463eb975",
+        "product_name": "蠟筆",
+        "product_description": "繪畫用",
+        "trading_location": "成大光復",
+        "trading_time": [
+            [
+                [
+                    2021,
+                    6,
+                    5,
+                    19,
+                    0,
+                    0,
+                    5,
+                    156,
+                    -1
+                ],
+                [
+                    2021,
+                    6,
+                    5,
+                    20,
+                    0,
+                    0,
+                    5,
+                    156,
+                    -1
+                ]
+            ]
+        ],
+        "product_classification": "居家生活",
+        "hashtag": "",
+        "group_condition_product_number": [
+            9,
+            18
+        ],
+        "group_condition_date": [
+            2021,
+            8,
+            1,
+            6,
+            0,
+            0,
+            6,
+            213,
+            -1
+        ],
+        "Line_id": "22982369",
+        "customer_id": [],
+        "status": 1,
+        "current_number": 0,
+        "price": "99",
+        "picture": "https://drive.google.com/uc?export=download&id=1ukytFRrazk32q-HWDYn-cJhEXOt4v_LW"
+    },
+    "8": {
+        "seller_user_id": "U52d34c487404af7f2bdd93d7463eb975",
+        "product_name": "海綿寶寶的親戚",
+        "product_description": "方方正正",
+        "trading_location": "勝後",
+        "trading_time": [
+            [
+                [
+                    2021,
+                    7,
+                    5,
+                    10,
+                    0,
+                    0,
+                    0,
+                    186,
+                    -1
+                ],
+                [
+                    2021,
+                    7,
+                    5,
+                    10,
+                    30,
+                    0,
+                    0,
+                    186,
+                    -1
+                ]
+            ]
+        ],
+        "product_classification": "育兒親子",
+        "hashtag": "",
+        "group_condition_product_number": [
+            99,
+            1000
+        ],
+        "group_condition_date": [
+            2021,
+            7,
+            4,
+            10,
+            0,
+            0,
+            6,
+            185,
+            -1
+        ],
+        "Line_id": "1424567",
+        "customer_id": [],
+        "status": 1,
+        "current_number": 0,
+        "price": "10",
+        "picture": "https://drive.google.com/uc?export=download&id=1CXxBpUdPsgfScnDScX1QWxF-uN2OoFkR"
+    },
+    "9": {
+        "seller_user_id": "U52d34c487404af7f2bdd93d7463eb975",
+        "product_name": "印表機",
+        "product_description": "印東西",
+        "trading_location": "成大",
+        "trading_time": [
+            [
+                [
+                    2021,
+                    6,
+                    4,
+                    9,
+                    0,
+                    0,
+                    4,
+                    155,
+                    -1
+                ],
+                [
+                    2021,
+                    6,
+                    4,
+                    12,
+                    0,
+                    0,
+                    4,
+                    155,
+                    -1
+                ]
+            ],
+            [
+                [
+                    2021,
+                    6,
+                    5,
+                    19,
+                    0,
+                    0,
+                    5,
+                    156,
+                    -1
+                ],
+                [
+                    2021,
+                    6,
+                    5,
+                    20,
+                    0,
+                    0,
+                    5,
+                    156,
+                    -1
+                ]
+            ]
+        ],
+        "product_classification": "居家生活",
+        "hashtag": "",
+        "group_condition_product_number": [
+            6,
+            9
+        ],
+        "group_condition_date": [
+            2021,
+            6,
+            4,
+            14,
+            0,
+            0,
+            4,
+            155,
+            -1
+        ],
+        "Line_id": "9987",
+        "customer_id": [],
+        "status": 1,
+        "current_number": 0,
+        "price": "989",
+        "picture": "https://drive.google.com/uc?export=download&id=1SkNLrSZODK8QmXjZXmkrz3qs917Q7HAh"
+    },
+    "10": {
+        "seller_user_id": "U349818381a68a5a656fbf23b202fa6be",
+        "product_name": "貓貓",
+        "product_description": "三花",
+        "trading_location": "我家",
+        "trading_time": [
+            [
+                [
+                    2021,
+                    6,
+                    20,
+                    9,
+                    0,
+                    0,
+                    6,
+                    171,
+                    -1
+                ],
+                [
+                    2021,
+                    6,
+                    20,
+                    12,
+                    0,
+                    0,
+                    6,
+                    171,
+                    -1
+                ]
+            ]
+        ],
+        "product_classification": "團購美食, 保養美妝",
+        "hashtag": "#喵",
+        "group_condition_product_number": [
+            2,
+            10
+        ],
+        "group_condition_date": [
+            2021,
+            6,
+            21,
+            14,
+            0,
+            0,
+            0,
+            172,
+            -1
+        ],
+        "Line_id": "Hjjug",
+        "customer_id": [],
+        "status": 1,
+        "current_number": 0,
+        "price": "20",
+        "picture": "https://drive.google.com/uc?export=download&id=1MuBpEYwOVO46oImbQ_ULVLlEZtCMl0Vd"
+    },
+    "11": {
+        "seller_user_id": "U6c62004a6efff38e7cced2f5301cb09e",
+        "product_name": "哈哈哈",
+        "product_description": "哈哈哈哈哈",
+        "trading_location": "嗨嗨嗨",
+        "trading_time": [
+            [
+                [
+                    2021,
+                    6,
+                    5,
+                    9,
+                    0,
+                    0,
+                    5,
+                    156,
+                    -1
+                ],
+                [
+                    2021,
+                    6,
+                    5,
+                    12,
+                    0,
+                    0,
+                    5,
+                    156,
+                    -1
+                ]
+            ]
+        ],
+        "product_classification": "團購美食, 保養美妝, 服飾配件, 育兒親子, 居家生活, 休閒娛樂",
+        "hashtag": "#哈哈哈哈",
+        "group_condition_product_number": [
+            2,
+            10
+        ],
+        "group_condition_date": [
+            2021,
+            6,
+            23,
+            14,
+            0,
+            0,
+            2,
+            174,
+            -1
+        ],
+        "Line_id": "哈哈",
+        "customer_id": [],
+        "status": 1,
+        "current_number": 0,
+        "price": "100",
+        "picture": "https://drive.google.com/uc?export=download&id=1w2IDDMfNFuL2m6VCbCqGmhiPb2iGiXL0"
+    },
+    "12": {
+        "seller_user_id": "Ue230c13400eafc8e60e4b22ae771345b",
+        "product_name": "帽子",
+        "product_description": "帽子給我好嗎",
+        "trading_location": "比奇堡",
+        "trading_time": [
+            [
+                [
+                    2021,
+                    6,
+                    4,
+                    9,
+                    0,
+                    0,
+                    4,
+                    155,
+                    -1
+                ],
+                [
+                    2021,
+                    6,
+                    4,
+                    12,
+                    0,
+                    0,
+                    4,
+                    155,
+                    -1
+                ]
+            ]
+        ],
+        "product_classification": "休閒娛樂",
+        "hashtag": "",
+        "group_condition_product_number": [
+            1,
+            100
+        ],
+        "group_condition_date": [
+            2021,
+            6,
+            18,
+            10,
+            20,
+            0,
+            4,
+            169,
+            -1
+        ],
+        "Line_id": "barrysone",
+        "customer_id": [],
+        "status": 1,
+        "current_number": 0,
+        "price": "300",
+        "picture": "https://drive.google.com/uc?export=download&id=1EfROpna21538bJll9OYuCipLmzEk0wB0"
+    },
+    "13": {
+        "seller_user_id": "U250c023b01f3505d8254149c3e33ad64",
+        "product_name": "東吳張記桂花糕",
+        "product_description": "柑橘/玫瑰/抹茶/奶酪",
+        "trading_location": "光口",
+        "trading_time": [
+            [
+                [
+                    2021,
+                    6,
+                    20,
+                    9,
+                    0,
+                    0,
+                    6,
+                    171,
+                    -1
+                ],
+                [
+                    2021,
+                    6,
+                    20,
+                    12,
+                    0,
+                    0,
+                    6,
+                    171,
+                    -1
+                ]
+            ]
+        ],
+        "product_classification": "團購美食",
+        "hashtag": "#蘇州名產",
+        "group_condition_product_number": [
+            3,
+            10
+        ],
+        "group_condition_date": [
+            2021,
+            6,
+            18,
+            10,
+            20,
+            0,
+            4,
+            169,
+            -1
+        ],
+        "Line_id": "0953309222",
+        "customer_id": [],
+        "status": 1,
+        "current_number": 0,
+        "price": "280",
+        "picture": "https://drive.google.com/uc?export=download&id=1YCxM0b5bcKpqgAT8zmEqFYRz-ZyiqZE3"
+    }
+}
